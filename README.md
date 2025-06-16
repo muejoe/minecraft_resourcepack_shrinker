@@ -1,1 +1,0 @@
-# minecraft_resourcepack_shrinker
